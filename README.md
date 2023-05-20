@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whu-huangyue
-- 👀 I’m interested in SLAM and 组合导航 and 定位建图算法
+- 👀 I’m interested in SLAM and 组合导航(GVINS) and 定位与建图(VINS + LIO-SAM + MCS)
 - 🌱 I’m currently learning VINS-Mono、LIO-SAM、GVINS
 - 💞️ I’m looking to a work on SuZhou or HangZhou or ShangHai
 - 📫 How to reach me : QQ:2967035281 or 2967035281@qq.com 保证每天都看邮箱~
