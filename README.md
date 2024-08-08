@@ -2,7 +2,6 @@
 - 👀 I’m interested in SLAM
 - 🌱 I’m currently learning CV & DL & SLAM
 - 📫 How to contact me : QQ:2967035281 or 2967035281@qq.com 保证每天都看邮箱~
-- ✨ 对数学建模各种赛事感兴趣~
 
 <!---
 whu-huangyue/whu-huangyue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
