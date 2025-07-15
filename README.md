@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @whu-huangyue
-- 👀 I’m interested in SLAM
-- 🌱 I’m currently learning CV & DL
+- 👀 I’m interested in 3DGS
 - 📫 How to contact me : QQ:2967035281 or 2967035281@qq.com 保证每天都看邮箱~
 
 <!---
